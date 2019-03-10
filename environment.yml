@@ -1,0 +1,9 @@
+name: keras-tfjs
+
+dependencies:
+  - python 3.6
+  - pip:
+      - tensorflow
+      - matplotlib
+      - numpy
+      - opencv-python
